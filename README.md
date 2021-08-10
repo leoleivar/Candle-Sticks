@@ -1,1 +1,1 @@
-Candel Stick WebGL Test by LLR
+Candle Stick WebGL Test by LLR
